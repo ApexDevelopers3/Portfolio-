@@ -11,7 +11,7 @@ const seo = {
   description:
     "At Apex Developers, we're a dynamic team of web development experts dedicated to crafting innovative digital solutions. With our passion for creativity and expertise in cutting-edge technologies, we specialize in delivering high-quality websites and applications tailored to meet your unique needs. Let us bring your vision to life and take your online presence to new heights.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Apex Developers Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
@@ -140,7 +140,7 @@ const skills = {
             backgroundColor: "transparent",
             color: "#3776AB",
           },
-        }
+        },
       ],
     },
     {
